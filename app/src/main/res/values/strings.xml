@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DAM_Sem10_ToatSnackBar</string>
+    <string name="buttonToast">Toast</string>
+    <string name="buttonSnackBar">Snack Bar</string>
+</resources>
